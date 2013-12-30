@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+7e831c768dab9bc120188c9e6e0d3b7f CMakeFiles/uninstall
+4c350d36f7f71d03d79c657a7f36b5b4 data/CMakeFiles/datafile
+48cc24f0d89b99a1c72ab0982998162c data/dict_pinyin.dat

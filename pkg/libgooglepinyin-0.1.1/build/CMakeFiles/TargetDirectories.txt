@@ -1,0 +1,4 @@
+/home/danny/Downloads/libgooglepinyin-0.1.1/build/data/CMakeFiles/datafile.dir
+/home/danny/Downloads/libgooglepinyin-0.1.1/build/tools/CMakeFiles/dictbuilder.dir
+/home/danny/Downloads/libgooglepinyin-0.1.1/build/src/CMakeFiles/googlepinyin.dir
+/home/danny/Downloads/libgooglepinyin-0.1.1/build/CMakeFiles/uninstall.dir
